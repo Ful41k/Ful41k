@@ -7,9 +7,7 @@ Also improving my skills, exploring textbooks and solving problems on LeetCode.
 Fun fact: I love cats. 🐱
 
 
-<p align="center">
-  <img src="cat_with_flower.jpg" width="300">
-</p>
+<img src="images/cat_with_flower.jpg" width="300">
 
 Have a good day!
 
