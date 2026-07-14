@@ -7,6 +7,6 @@ Fun fact: I love cats. 🐱
 
 Have a good day!
 
-[cat](https://github.com/Ful41k/Ful41k/blob/main/images/cat_with_flower.jpg)
+![cat](images/cat_with_flower.jpg)
 
 [Telegram](https://t.me/Ful4ik)
